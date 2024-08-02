@@ -29,7 +29,6 @@
   <depend>diagnostic_updater</depend>
   <depend>librealsense2</depend>
   <depend>robotic_state_publisher</depend>
-  <depend>realsense2_camera</depend>
   <export>
     <nodelet plugin="${prefix}/nodelet_plugins.xml" />
   </export>
