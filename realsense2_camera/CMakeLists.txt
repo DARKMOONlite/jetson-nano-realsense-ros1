@@ -21,7 +21,6 @@ find_package(catkin REQUIRED COMPONENTS
     ddynamic_reconfigure
     diagnostic_updater
     robotic_state_publisher
-    realsense2_camera
     )
 
 find_package(OpenCV REQUIRED)
