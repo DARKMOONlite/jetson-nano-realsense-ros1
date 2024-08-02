@@ -32,9 +32,7 @@ LibRealSense2 supported version: v2.50.0 (see [realsense2_camera release notes](
 
 
    ```bash
-  catkin_make clean
-  catkin_make -DCATKIN_ENABLE_TESTING=False -DCMAKE_BUILD_TYPE=Release
-  catkin_make install
+  catkin_make
   . devel/setup.bash
   ```
 
