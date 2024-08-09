@@ -28,8 +28,7 @@
   <depend>ddynamic_reconfigure</depend>
   <depend>diagnostic_updater</depend>
   <depend>librealsense2</depend>
-  <depend>robotic_state_publisher</depend>
-  <depend>realsense2_camera</depend>
+  <depend>robot_state_publisher</depend>
   <export>
     <nodelet plugin="${prefix}/nodelet_plugins.xml" />
   </export>
